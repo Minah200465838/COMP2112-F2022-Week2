@@ -9,5 +9,6 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.1",
     "jquery": "^3.6.1"
-  }
+  },
+  "repository": "https://github.com/Minah200465838/COMP2112-F2022-Week2.git"
 }
